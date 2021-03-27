@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+
+h1 {
+    margin: 20px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    color: #40514E;
+}
+
+.boy {
+    width: 15%;
+}
+
+.design-pic {
+    width: 25%;
+    float: left;
+    padding-right: 70;
+}
+
+.develop-pic {
+    width: 25%;
+    float: right;
+    padding-right: 5;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6ea;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.skill-row {
+    width: 50%;
+    margin: auto;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-container {
+    padding-top: 100px;
+    background-color: #f4f9f9;
+}
+
+.bottom-container {
+    padding-bottom: 40px;
+    background-color: #9ddfd3;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 500px;
+}
+
+.button {
+    background: #1B7F69;
+    background-image: -webkit-linear-gradient(top, #1B7F69, #1B7F69);
+    background-image: -moz-linear-gradient(top, #1B7F69, #1B7F69);
+    background-image: -ms-linear-gradient(top, #1B7F69, #1B7F69);
+    background-image: -o-linear-gradient(top, #1B7F69, #1B7F69);
+    background-image: -webkit-gradient(to bottom, #1B7F69, #1B7F69);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+hr {
+    background-color: white;
+    border-style: none;
+    border-top: dotted;
+    border-color: #caf7e3;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+}
